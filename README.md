@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Alex Wechuli! 👋</h1>
 <h3 align="center">Data Analyst | Power BI Specialist | IT Enthusiast</h3>
 
-<p align="center">
-  <img src="https://github.com/alecoder1/alecoder1/blob/main/banner.png" alt="Alex Wechuli Banner" width="100%">
-</p>
 
 ---
 
