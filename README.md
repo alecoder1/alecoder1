@@ -39,8 +39,7 @@
 
 ### 📬 Let's Connect  
 📧 **Email:** [alexwechuli5@gmail.com]  
-🔗 **LinkedIn:** [www.linkedin.com/in/wechuli-alex-395a662a6](https://www.linkedin.com/in/k-alex-505213333)  
-🌐 **Portfolio:** [Coming soon...]  
+
 
 ---
 
